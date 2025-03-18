@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JURNAL_MOD_05_103022300064\\JURNAL_MOD_05_103022300064.csproj",
+      "projectUniqueName": "D:\\jbjbbb\\JURNAL_MOD_05_KPL\\JURNAL_MOD_05_103022300064.csproj",
       "projectName": "JURNAL_MOD_05_103022300064",
-      "projectPath": "D:\\JURNAL_MOD_05_103022300064\\JURNAL_MOD_05_103022300064.csproj",
+      "projectPath": "D:\\jbjbbb\\JURNAL_MOD_05_KPL\\JURNAL_MOD_05_103022300064.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "D:\\JURNAL_MOD_05_103022300064\\obj\\",
+      "outputPath": "D:\\jbjbbb\\JURNAL_MOD_05_KPL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
